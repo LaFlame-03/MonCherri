@@ -75,17 +75,6 @@ animation: color 12s ease-in-out infinite;
     100%{background-position: 0 50%;}
 }
 
-.relogio span{
-font-weight: bold;
-font-size: 60px;
-color: #17bf95f6;
-
-}
-
-.relogio span.tempo{
-    font-weight: bolder;
-    font-size: 15px;
-}
 
 .moncherri span{
     font-weight: bold;
