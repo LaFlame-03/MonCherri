@@ -1,4 +1,4 @@
-const horas = document.getElementById('horas');
+/* const horas = document.getElementById('horas');
 const minutos = document.getElementById('minutos');
 const segundos = document.getElementById('segundos');
 
@@ -17,4 +17,4 @@ String(min).padStart(2,0);
 String(seg).padStart(2,0);
 
 
-});
+}); */
