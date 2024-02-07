@@ -84,3 +84,12 @@ animation: color 12s ease-in-out infinite;
     -webkit-text-stroke: 1px #111010fa;
 }
 
+#mc {
+    font-size: 1.5em; /* Tamanho de fonte relativo à configuração de fonte do navegador */
+    max-width: 30em; /* Largura máxima em relação ao tamanho da fonte do navegador */
+    word-wrap: break-word; /* Quebra de palavra para evitar overflow */
+}
+
+
+
+
